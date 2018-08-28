@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "my first app using electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baocaifeng/Electron.git"
+  },
+  "keywords": [
+    "electron",
+    "nodeJs"
+  ],
+  "author": "Caifeng BAO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baocaifeng/Electron/issues"
+  },
+  "homepage": "https://github.com/Baocaifeng/Electron#readme",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
+}
